@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+
+Allow: /
+
+Sitemap: https://minitale.fr/sitemap.xml
+
+# Crawl-delay: 2
