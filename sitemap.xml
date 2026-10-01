@@ -25,6 +25,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://minitale.fr/about.html</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://minitale.fr/assets/logo.svg</loc>
         <lastmod>2024-10-15</lastmod>
         <changefreq>yearly</changefreq>
