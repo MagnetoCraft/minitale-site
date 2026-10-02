@@ -1,8 +1,9 @@
 // Fonction pour copier l'IP du serveur dans le presse-papiers
 function copyIP() {
     const ip = "141.253.113.74";
+    const copyMessage = LanguageManager.getTranslation("serverInfo.copyMessage") || "IP copiée dans le presse-papiers: ";
     navigator.clipboard.writeText(ip).then(() => {
-        alert("IP copiée dans le presse-papiers: " + ip);
+        alert(copyMessage + ip);
     }).catch(err => {
         console.error("Erreur lors de la copie: ", err);
         // Méthode de secours pour les navigateurs plus anciens
@@ -12,7 +13,7 @@ function copyIP() {
         textarea.select();
         document.execCommand("copy");
         document.body.removeChild(textarea);
-        alert("IP copiée dans le presse-papiers: " + ip);
+        alert(copyMessage + ip);
     });
 }
 

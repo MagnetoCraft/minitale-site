@@ -1,0 +1,153 @@
+{
+    "language": "Français",
+    "nav": {
+        "home": "Accueil",
+        "games": "Mini-Jeux",
+        "blog": "Actualités",
+        "about": "À Propos"
+    },
+    "hero": {
+        "title": "Bienvenue sur",
+        "highlight": "Minitale",
+        "subtitle": "Le serveur Hytale ultime pour les mini-jeux !",
+        "joinButton": "Rejoindre le serveur"
+    },
+    "features": {
+        "title": "Pourquoi choisir Minitale ?",
+        "variedGames": {
+            "title": "Mini-Jeux Variés",
+            "description": "Profitez de nos mini-jeux uniques comme Bed Wars et TNT Run, conçus pour des heures de divertissement."
+        },
+        "performance": {
+            "title": "Performances Optimales",
+            "description": "Nos serveurs sont optimisés pour offrir une expérience de jeu fluide et sans lag."
+        },
+        "community": {
+            "title": "Communauté Active",
+            "description": "Rejoignez une communauté de joueurs passionnés et participez à des événements réguliers."
+        }
+    },
+    "serverInfo": {
+        "title": "Informations du Serveur",
+        "ipAddress": "Adresse IP",
+        "status": "Statut",
+        "online": "En ligne",
+        "players": "Joueurs en ligne:"
+    },
+    "games": {
+        "title": "Nos Mini-Jeux",
+        "subtitle": "Découvrez les mini-jeux disponibles sur Minitale",
+        "bedWars": {
+            "name": "Bed Wars",
+            "description": "Bed Wars est un jeu d'équipe où l'objectif est de détruire le lit des autres équipes tout en protégeant le vôtre. Collectez des ressources, améliorez votre équipement et travaillez en équipe pour dominer la partie. Stratégie, rapidité et coordination sont les clés de la victoire !",
+            "duration": "Durée: 10-15 min",
+            "players": "Joueurs: 2-8"
+        },
+        "tntRun": {
+            "name": "TNT Run",
+            "description": "TNT Run est un jeu de course et de survie où les joueurs doivent courir sur des blocs qui disparaissent. Le dernier joueur à ne pas tomber dans le vide remporte la victoire. Agilité et rapidité sont essentielles pour survivre dans ce jeu intense !",
+            "duration": "Durée: 5-10 min",
+            "players": "Joueurs: 2-8"
+        },
+        "comingSoon": {
+            "title": "Prochains Mini-Jeux",
+            "description": "Nous travaillons sur de nouveaux mini-jeux pour enrichir votre expérience. Restez à l'affût !"
+        },
+        "playButton": "Jouer maintenant"
+    },
+    "blog": {
+        "title": "Actualités",
+        "subtitle": "Restez informé des dernières mises à jour et événements de Minitale",
+        "posts": {
+            "launch": {
+                "title": "Lancement Officiel de Minitale !",
+                "date": "15 Octobre 2026",
+                "content": [
+                    "Nous sommes ravis d'annoncer le lancement officiel de Minitale ! Notre serveur Hytale est désormais ouvert avec deux mini-jeux passionnants : Bed Wars et TNT Run.",
+                    "Rejoignez-nous dès maintenant pour découvrir ces jeux et faire partie de notre communauté grandissante. N'oubliez pas de rejoindre notre Discord pour rester informé des dernières actualités."
+                ],
+                "author": "Par l'équipe Minitale"
+            },
+            "tntRun": {
+                "title": "Nouveau Mini-Jeu : TNT Run",
+                "date": "10 Octobre 2026",
+                "content": [
+                    "Nous avons le plaisir de vous annoncer l'ajout de TNT Run à notre collection de mini-jeux ! Ce jeu de course et de survie vous mettra au défi de rester en vie alors que les blocs disparaissent sous vos pieds.",
+                    "Caractéristiques du jeu :",
+                    "Jusqu'à 8 joueurs simultanément",
+                    "Parties rapides et intenses",
+                    "Cartes variées pour plus de fun"
+                ],
+                "author": "Par l'équipe Minitale"
+            },
+            "bedWars": {
+                "title": "Bed Wars est maintenant disponible !",
+                "date": "5 Octobre 2026",
+                "content": [
+                    "Bed Wars est désormais disponible sur Minitale ! Ce jeu d'équipe stratégique vous permettra de tester vos compétences en collaboration et en combat.",
+                    "Comment jouer :",
+                    "Rejoignez une partie avec vos amis ou des joueurs aléatoires",
+                    "Collectez des ressources pour améliorer votre équipement",
+                    "Détruisez le lit des équipes adverses",
+                    "Protégez votre propre lit à tout prix"
+                ],
+                "author": "Par l'équipe Minitale"
+            }
+        },
+        "newsletter": {
+            "title": "Restez à jour",
+            "description": "Rejoignez notre Discord pour ne rien manquer des prochaines mises à jour et événements.",
+            "discordLink": "Rejoindre le Discord"
+        }
+    },
+    "about": {
+        "title": "À Propos de Minitale",
+        "subtitle": "Découvrez notre philosophie, notre équipe et notre engagement envers la communauté",
+        "whoWeAre": {
+            "title": "Qui sommes-nous ?",
+            "content": [
+                "Minitale est un serveur Hytale dédié aux mini-jeux, créé par une équipe de passionnés de gaming.",
+                "Notre objectif est simple : offrir une expérience de jeu fluide, amusante et équitable à tous nos joueurs.",
+                "Que vous soyez un joueur occasionnel ou un compétiteur acharné, vous trouverez votre place sur Minitale.",
+                "Nous croyons que les mini-jeux comme Bed Wars et TNT Run sont bien plus qu'un simple divertissement : ce sont des opportunités de rencontrer de nouvelles personnes, de développer des stratégies et de s'amuser ensemble."
+            ]
+        },
+        "transparency": {
+            "title": "Transparence : Ce site a été créé avec l'aide de l'IA",
+            "content": [
+                "Nous tenons à être totalement transparents avec notre communauté. Le site web que vous consultez a été conçu et développé avec l'aide de Vibe Code, un agent d'IA développé par Mistral AI.",
+                "Cela nous a permis de gagner du temps sur la création d'une interface moderne, responsive et optimisée pour le référencement.",
+                "Cependant, ce qui compte vraiment pour nous, c'est le serveur lui-même. Le serveur Hytale Minitale et tous ses plugins ont été développés à la main, avec soin et passion, par notre équipe.",
+                "Chaque ligne de code des mini-jeux, chaque mécanisme de gameplay, chaque fonctionnalité du serveur a été pensée, testée et peaufinée par des humains pour offrir la meilleure expérience possible.",
+                "Nous utilisons l'IA comme un outil pour nous aider sur les tâches techniques ou créatives qui ne sont pas au cœur de notre passion : créer un serveur de qualité pour notre communauté."
+            ]
+        },
+        "approach": {
+            "title": "Notre Approche",
+            "content": "Sur Minitale, nous mettons l'accent sur :",
+            "items": [
+                "L'équité : Tous les joueurs ont les mêmes chances de gagner.",
+                "La stabilité : Un serveur optimisé pour éviter les lags et les bugs.",
+                "La communauté : Une ambiance chaleureuse et accueillante pour tous.",
+                "L'innovation : Nous ajoutons régulièrement de nouveaux mini-jeux et fonctionnalités."
+            ]
+        },
+        "joinUs": {
+            "title": "Rejoignez-nous !",
+            "content": "Vous voulez faire partie de l'aventure ? Rejoignez notre Discord pour :",
+            "items": [
+                "Discuter avec l'équipe et les autres joueurs.",
+                "Proposer des idées de nouveaux mini-jeux.",
+                "Signaler des bugs ou des suggestions d'amélioration.",
+                "Participer à nos événements spéciaux."
+            ],
+            "ip": "IP du serveur :"
+        }
+    },
+    "footer": {
+        "copyright": "© 2026 Minitale. Tous droits réservés."
+    },
+    "languageSelector": {
+        "label": "Langue:"
+    }
+}

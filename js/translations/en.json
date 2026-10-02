@@ -1,0 +1,153 @@
+{
+    "language": "English",
+    "nav": {
+        "home": "Home",
+        "games": "Mini-Games",
+        "blog": "News",
+        "about": "About"
+    },
+    "hero": {
+        "title": "Welcome to",
+        "highlight": "Minitale",
+        "subtitle": "The ultimate Hytale server for mini-games!",
+        "joinButton": "Join the server"
+    },
+    "features": {
+        "title": "Why choose Minitale?",
+        "variedGames": {
+            "title": "Variety of Mini-Games",
+            "description": "Enjoy our unique mini-games like Bed Wars and TNT Run, designed for hours of fun."
+        },
+        "performance": {
+            "title": "Optimal Performance",
+            "description": "Our servers are optimized to provide a smooth and lag-free gaming experience."
+        },
+        "community": {
+            "title": "Active Community",
+            "description": "Join a community of passionate players and participate in regular events."
+        }
+    },
+    "serverInfo": {
+        "title": "Server Information",
+        "ipAddress": "IP Address",
+        "status": "Status",
+        "online": "Online",
+        "players": "Players online:"
+    },
+    "games": {
+        "title": "Our Mini-Games",
+        "subtitle": "Discover the mini-games available on Minitale",
+        "bedWars": {
+            "name": "Bed Wars",
+            "description": "Bed Wars is a team game where the goal is to destroy the other teams' beds while protecting your own. Collect resources, upgrade your equipment, and work as a team to dominate the game. Strategy, speed, and coordination are the keys to victory!",
+            "duration": "Duration: 10-15 min",
+            "players": "Players: 2-8"
+        },
+        "tntRun": {
+            "name": "TNT Run",
+            "description": "TNT Run is a running and survival game where players must run on blocks that disappear. The last player not to fall into the void wins the game. Agility and speed are essential to survive in this intense game!",
+            "duration": "Duration: 5-10 min",
+            "players": "Players: 2-8"
+        },
+        "comingSoon": {
+            "title": "Upcoming Mini-Games",
+            "description": "We are working on new mini-games to enrich your experience. Stay tuned!"
+        },
+        "playButton": "Play now"
+    },
+    "blog": {
+        "title": "News",
+        "subtitle": "Stay updated with the latest updates and events from Minitale",
+        "posts": {
+            "launch": {
+                "title": "Official Launch of Minitale!",
+                "date": "October 15, 2026",
+                "content": [
+                    "We are thrilled to announce the official launch of Minitale! Our Hytale server is now open with two exciting mini-games: Bed Wars and TNT Run.",
+                    "Join us now to discover these games and become part of our growing community. Don't forget to join our Discord to stay informed about the latest news."
+                ],
+                "author": "By the Minitale team"
+            },
+            "tntRun": {
+                "title": "New Mini-Game: TNT Run",
+                "date": "October 10, 2026",
+                "content": [
+                    "We are pleased to announce the addition of TNT Run to our collection of mini-games! This running and survival game will challenge you to stay alive as blocks disappear beneath your feet.",
+                    "Game Features:",
+                    "Up to 8 players simultaneously",
+                    "Fast and intense matches",
+                    "Variety of maps for more fun"
+                ],
+                "author": "By the Minitale team"
+            },
+            "bedWars": {
+                "title": "Bed Wars is now available!",
+                "date": "October 5, 2026",
+                "content": [
+                    "Bed Wars is now available on Minitale! This strategic team game will allow you to test your collaboration and combat skills.",
+                    "How to play:",
+                    "Join a game with your friends or random players",
+                    "Collect resources to upgrade your equipment",
+                    "Destroy the enemy teams' beds",
+                    "Protect your own bed at all costs"
+                ],
+                "author": "By the Minitale team"
+            }
+        },
+        "newsletter": {
+            "title": "Stay Updated",
+            "description": "Join our Discord to not miss any upcoming updates and events.",
+            "discordLink": "Join Discord"
+        }
+    },
+    "about": {
+        "title": "About Minitale",
+        "subtitle": "Discover our philosophy, our team, and our commitment to the community",
+        "whoWeAre": {
+            "title": "Who are we?",
+            "content": [
+                "Minitale is a Hytale server dedicated to mini-games, created by a team of gaming enthusiasts.",
+                "Our goal is simple: to provide a smooth, fun, and fair gaming experience for all our players.",
+                "Whether you're a casual player or a hardcore competitor, you'll find your place on Minitale.",
+                "We believe that mini-games like Bed Wars and TNT Run are more than just entertainment: they are opportunities to meet new people, develop strategies, and have fun together."
+            ]
+        },
+        "transparency": {
+            "title": "Transparency: This site was created with AI assistance",
+            "content": [
+                "We want to be completely transparent with our community. The website you are browsing was designed and developed with the help of Vibe Code, an AI agent developed by Mistral AI.",
+                "This allowed us to save time in creating a modern, responsive interface optimized for search engines.",
+                "However, what truly matters to us is the server itself. The Minitale Hytale server and all its plugins were developed by hand, with care and passion, by our team.",
+                "Every line of code for the mini-games, every gameplay mechanism, every server feature was thought out, tested, and perfected by humans to provide the best possible experience.",
+                "We use AI as a tool to help us with technical or creative tasks that are not at the core of our passion: creating a quality server for our community."
+            ]
+        },
+        "approach": {
+            "title": "Our Approach",
+            "content": "On Minitale, we focus on:",
+            "items": [
+                "Fairness: All players have equal chances to win.",
+                "Stability: A server optimized to avoid lags and bugs.",
+                "Community: A warm and welcoming atmosphere for everyone.",
+                "Innovation: We regularly add new mini-games and features."
+            ]
+        },
+        "joinUs": {
+            "title": "Join us!",
+            "content": "Want to be part of the adventure? Join our Discord to:",
+            "items": [
+                "Chat with the team and other players.",
+                "Suggest ideas for new mini-games.",
+                "Report bugs or improvement suggestions.",
+                "Participate in our special events."
+            ],
+            "ip": "Server IP:"
+        }
+    },
+    "footer": {
+        "copyright": "© 2026 Minitale. All rights reserved."
+    },
+    "languageSelector": {
+        "label": "Language:"
+    }
+}

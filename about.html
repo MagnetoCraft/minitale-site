@@ -20,7 +20,7 @@
     <link rel="canonical" href="https://minitale.fr/about">
     <link rel="icon" type="image/svg+xml" href="assets/logo.svg">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <title>À Propos | Minitale - Qui sommes-nous ?</title>
+    <title data-i18n="about.title">À Propos | Minitale</title>
     <link rel="stylesheet" href="css/styles.css">
     <script type="application/ld+json">
     {
@@ -50,11 +50,23 @@
                 </div>
             </a>
             <ul class="nav-links">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="games.html">Mini-Jeux</a></li>
-                <li><a href="blog.html">Actualités</a></li>
-                <li><a href="about.html" class="active">À Propos</a></li>
+                <li><a href="index.html" data-i18n="nav.home">Accueil</a></li>
+                <li><a href="games.html" data-i18n="nav.games">Mini-Jeux</a></li>
+                <li><a href="blog.html" data-i18n="nav.blog">Actualités</a></li>
+                <li><a href="about.html" class="active" data-i18n="nav.about">À Propos</a></li>
             </ul>
+            <div id="language-selector" class="language-selector">
+                <button class="language-button">
+                    <span class="language-button-text">Français</span>
+                    <svg class="language-dropdown-icon" viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
+                        <path d="M7 10l5 5 5-5z"/>
+                    </svg>
+                </button>
+                <div class="language-dropdown">
+                    <div class="language-option" data-lang="fr">Français</div>
+                    <div class="language-option" data-lang="en">English</div>
+                </div>
+            </div>
             <a href="https://discord.gg/vPbszNCjtd" class="discord-button" target="_blank">
                 <svg class="discord-icon" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 14.09 14.09 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/>
@@ -66,83 +78,86 @@
 
     <main>
         <section class="page-header">
-            <h1>À Propos de Minitale</h1>
-            <p>Découvrez notre philosophie, notre équipe et notre engagement envers la communauté</p>
+            <h1 data-i18n="about.title">À Propos de Minitale</h1>
+            <p data-i18n="about.subtitle">Découvrez notre philosophie, notre équipe et notre engagement envers la communauté</p>
         </section>
 
         <section class="about-content">
             <div class="about-section">
-                <h2>🎮 Qui sommes-nous ?</h2>
-                <p>
-                    Minitale est un serveur <strong>Hytale</strong> dédié aux mini-jeux, créé par une équipe de passionnés de gaming.
-                    Notre objectif est simple : offrir une expérience de jeu <strong>fluide, amusante et équitable</strong> à tous nos joueurs.
+                <h2 data-i18n="about.whoWeAre.title">🎮 Qui sommes-nous ?</h2>
+                <p data-i18n="about.whoWeAre.content.0">
+                    Minitale est un serveur Hytale dédié aux mini-jeux, créé par une équipe de passionnés de gaming.
                 </p>
-                <p>
+                <p data-i18n="about.whoWeAre.content.1">
+                    Notre objectif est simple : offrir une expérience de jeu fluide, amusante et équitable à tous nos joueurs.
+                </p>
+                <p data-i18n="about.whoWeAre.content.2">
                     Que vous soyez un joueur occasionnel ou un compétiteur acharné, vous trouverez votre place sur Minitale.
-                    Nous croyons que les mini-jeux comme <strong>Bed Wars</strong> et <strong>TNT Run</strong> sont bien plus qu'un simple divertissement :
-                    ce sont des opportunités de <strong>rencontrer de nouvelles personnes</strong>, de <strong>développer des stratégies</strong> et de <strong>s'amuser ensemble</strong>.
+                </p>
+                <p data-i18n="about.whoWeAre.content.3">
+                    Nous croyons que les mini-jeux comme Bed Wars et TNT Run sont bien plus qu'un simple divertissement : ce sont des opportunités de rencontrer de nouvelles personnes, de développer des stratégies et de s'amuser ensemble.
                 </p>
             </div>
 
             <div class="about-section">
-                <h2>🤖 Transparence : Ce site a été créé avec l'aide de l'IA</h2>
-                <p>
-                    Nous tenons à être <strong>totalement transparents</strong> avec notre communauté.
-                    Le <strong>site web que vous consultez</strong> a été conçu et développé avec l'aide de <strong>Vibe Code</strong>, 
-                    un agent d'IA développé par Mistral AI.
+                <h2 data-i18n="about.transparency.title">🤖 Transparence : Ce site a été créé avec l'aide de l'IA</h2>
+                <p data-i18n="about.transparency.content.0">
+                    Nous tenons à être totalement transparents avec notre communauté. Le site web que vous consultez a été conçu et développé avec l'aide de Vibe Code, un agent d'IA développé par Mistral AI.
+                </p>
+                <p data-i18n="about.transparency.content.1">
                     Cela nous a permis de gagner du temps sur la création d'une interface moderne, responsive et optimisée pour le référencement.
                 </p>
-                <p>
-                    Cependant, <strong>ce qui compte vraiment pour nous, c'est le serveur lui-même</strong>.
-                    <strong>Le serveur Hytale Minitale et tous ses plugins ont été développés à la main</strong>, avec soin et passion, par notre équipe.
-                    Chaque ligne de code des mini-jeux, chaque mécanisme de gameplay, chaque fonctionnalité du serveur a été pensée,
-                    testée et peaufinée par des humains pour offrir la meilleure expérience possible.
+                <p data-i18n="about.transparency.content.2">
+                    Cependant, ce qui compte vraiment pour nous, c'est le serveur lui-même. Le serveur Hytale Minitale et tous ses plugins ont été développés à la main, avec soin et passion, par notre équipe.
                 </p>
-                <p>
-                    Nous utilisons l'IA comme un outil pour nous aider sur les tâches techniques ou créatives qui ne sont pas au cœur de notre passion :
-                    <strong>créer un serveur de qualité pour notre communauté</strong>.
+                <p data-i18n="about.transparency.content.3">
+                    Chaque ligne de code des mini-jeux, chaque mécanisme de gameplay, chaque fonctionnalité du serveur a été pensée, testée et peaufinée par des humains pour offrir la meilleure expérience possible.
+                </p>
+                <p data-i18n="about.transparency.content.4">
+                    Nous utilisons l'IA comme un outil pour nous aider sur les tâches techniques ou créatives qui ne sont pas au cœur de notre passion : créer un serveur de qualité pour notre communauté.
                 </p>
             </div>
 
             <div class="about-section">
-                <h2>🛠 Notre Approche</h2>
-                <p>
+                <h2 data-i18n="about.approach.title">🛠 Notre Approche</h2>
+                <p data-i18n="about.approach.content">
                     Sur Minitale, nous mettons l'accent sur :
                 </p>
                 <ul class="about-list">
-                    <li><strong>L'équité</strong> : Tous les joueurs ont les mêmes chances de gagner.</li>
-                    <li><strong>La stabilité</strong> : Un serveur optimisé pour éviter les lags et les bugs.</li>
-                    <li><strong>La communauté</strong> : Une ambiance chaleureuse et accueillante pour tous.</li>
-                    <li><strong>L'innovation</strong> : Nous ajoutons régulièrement de nouveaux mini-jeux et fonctionnalités.</li>
+                    <li data-i18n="about.approach.items.0">L'équité : Tous les joueurs ont les mêmes chances de gagner.</li>
+                    <li data-i18n="about.approach.items.1">La stabilité : Un serveur optimisé pour éviter les lags et les bugs.</li>
+                    <li data-i18n="about.approach.items.2">La communauté : Une ambiance chaleureuse et accueillante pour tous.</li>
+                    <li data-i18n="about.approach.items.3">L'innovation : Nous ajoutons régulièrement de nouveaux mini-jeux et fonctionnalités.</li>
                 </ul>
             </div>
 
             <div class="about-section">
-                <h2>💬 Rejoignez-nous !</h2>
-                <p>
-                    Vous voulez faire partie de l'aventure ? Rejoignez notre <a href="https://discord.gg/vPbszNCjtd" target="_blank">Discord</a> pour :
+                <h2 data-i18n="about.joinUs.title">💬 Rejoignez-nous !</h2>
+                <p data-i18n="about.joinUs.content">
+                    Vous voulez faire partie de l'aventure ? Rejoignez notre Discord pour :
                 </p>
                 <ul class="about-list">
-                    <li>Discuter avec l'équipe et les autres joueurs.</li>
-                    <li>Proposer des idées de nouveaux mini-jeux.</li>
-                    <li>Signaler des bugs ou des suggestions d'amélioration.</li>
-                    <li>Participer à nos événements spéciaux.</li>
+                    <li data-i18n="about.joinUs.items.0">Discuter avec l'équipe et les autres joueurs.</li>
+                    <li data-i18n="about.joinUs.items.1">Proposer des idées de nouveaux mini-jeux.</li>
+                    <li data-i18n="about.joinUs.items.2">Signaler des bugs ou des suggestions d'amélioration.</li>
+                    <li data-i18n="about.joinUs.items.3">Participer à nos événements spéciaux.</li>
                 </ul>
                 <p>
-                    <strong>IP du serveur :</strong> <code>141.253.113.74</code>
+                    <strong data-i18n="about.joinUs.ip">IP du serveur :</strong> <code>141.253.113.74</code>
                 </p>
             </div>
         </section>
     </main>
 
     <footer>
-        <p>© 2026 Minitale. Tous droits réservés.</p>
+        <p data-i18n="footer.copyright">© 2026 Minitale. Tous droits réservés.</p>
         <div class="footer-links">
             <a href="https://discord.gg/vPbszNCjtd" target="_blank">Discord</a>
-            <a href="about.html">À Propos</a>
+            <a href="about.html" data-i18n="nav.about">À Propos</a>
         </div>
     </footer>
 
+    <script src="js/language.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
