@@ -9,12 +9,12 @@
     },
     "hero": {
         "title": "Bienvenue sur",
-        "highlight": "Minitale",
+        "highlight": "Minixel",
         "subtitle": "Le serveur Hytale ultime pour les mini-jeux !",
         "joinButton": "Rejoindre le serveur"
     },
     "features": {
-        "title": "Pourquoi choisir Minitale ?",
+        "title": "Pourquoi choisir Minixel ?",
         "variedGames": {
             "title": "Mini-Jeux Variés",
             "description": "Profitez de nos mini-jeux uniques comme Bed Wars et TNT Run, conçus pour des heures de divertissement."
@@ -37,7 +37,7 @@
     },
     "games": {
         "title": "Nos Mini-Jeux",
-        "subtitle": "Découvrez les mini-jeux disponibles sur Minitale",
+        "subtitle": "Découvrez les mini-jeux disponibles sur Minixel",
         "bedWars": {
             "name": "Bed Wars",
             "description": "Bed Wars est un jeu d'équipe où l'objectif est de détruire le lit des autres équipes tout en protégeant le vôtre. Collectez des ressources, améliorez votre équipement et travaillez en équipe pour dominer la partie. Stratégie, rapidité et coordination sont les clés de la victoire !",
@@ -58,16 +58,16 @@
     },
     "blog": {
         "title": "Actualités",
-        "subtitle": "Restez informé des dernières mises à jour et événements de Minitale",
+        "subtitle": "Restez informé des dernières mises à jour et événements de Minixel",
         "posts": {
             "launch": {
-                "title": "Lancement Officiel de Minitale !",
+                "title": "Lancement Officiel de Minixel !",
                 "date": "15 Octobre 2026",
                 "content": [
-                    "Nous sommes ravis d'annoncer le lancement officiel de Minitale ! Notre serveur Hytale est désormais ouvert avec deux mini-jeux passionnants : Bed Wars et TNT Run.",
+                    "Nous sommes ravis d'annoncer le lancement officiel de Minixel ! Notre serveur Hytale est désormais ouvert avec deux mini-jeux passionnants : Bed Wars et TNT Run.",
                     "Rejoignez-nous dès maintenant pour découvrir ces jeux et faire partie de notre communauté grandissante. N'oubliez pas de rejoindre notre Discord pour rester informé des dernières actualités."
                 ],
-                "author": "Par l'équipe Minitale"
+                "author": "Par l'équipe Minixel"
             },
             "tntRun": {
                 "title": "Nouveau Mini-Jeu : TNT Run",
@@ -79,20 +79,20 @@
                     "Parties rapides et intenses",
                     "Cartes variées pour plus de fun"
                 ],
-                "author": "Par l'équipe Minitale"
+                "author": "Par l'équipe Minixel"
             },
             "bedWars": {
                 "title": "Bed Wars est maintenant disponible !",
                 "date": "5 Octobre 2026",
                 "content": [
-                    "Bed Wars est désormais disponible sur Minitale ! Ce jeu d'équipe stratégique vous permettra de tester vos compétences en collaboration et en combat.",
+                    "Bed Wars est désormais disponible sur Minixel ! Ce jeu d'équipe stratégique vous permettra de tester vos compétences en collaboration et en combat.",
                     "Comment jouer :",
                     "Rejoignez une partie avec vos amis ou des joueurs aléatoires",
                     "Collectez des ressources pour améliorer votre équipement",
                     "Détruisez le lit des équipes adverses",
                     "Protégez votre propre lit à tout prix"
                 ],
-                "author": "Par l'équipe Minitale"
+                "author": "Par l'équipe Minixel"
             }
         },
         "newsletter": {
@@ -102,14 +102,14 @@
         }
     },
     "about": {
-        "title": "À Propos de Minitale",
+        "title": "À Propos de Minixel",
         "subtitle": "Découvrez notre philosophie, notre équipe et notre engagement envers la communauté",
         "whoWeAre": {
             "title": "Qui sommes-nous ?",
             "content": [
-                "Minitale est un serveur Hytale dédié aux mini-jeux, créé par une équipe de passionnés de gaming.",
+                "Minixel est un serveur Hytale dédié aux mini-jeux, créé par une équipe de passionnés de gaming.",
                 "Notre objectif est simple : offrir une expérience de jeu fluide, amusante et équitable à tous nos joueurs.",
-                "Que vous soyez un joueur occasionnel ou un compétiteur acharné, vous trouverez votre place sur Minitale.",
+                "Que vous soyez un joueur occasionnel ou un compétiteur acharné, vous trouverez votre place sur Minixel.",
                 "Nous croyons que les mini-jeux comme Bed Wars et TNT Run sont bien plus qu'un simple divertissement : ce sont des opportunités de rencontrer de nouvelles personnes, de développer des stratégies et de s'amuser ensemble."
             ]
         },
@@ -118,14 +118,14 @@
             "content": [
                 "Nous tenons à être totalement transparents avec notre communauté. Le site web que vous consultez a été conçu et développé avec l'aide de Vibe Code, un agent d'IA développé par Mistral AI.",
                 "Cela nous a permis de gagner du temps sur la création d'une interface moderne, responsive et optimisée pour le référencement.",
-                "Cependant, ce qui compte vraiment pour nous, c'est le serveur lui-même. Le serveur Hytale Minitale et tous ses plugins ont été développés à la main, avec soin et passion, par notre équipe.",
+                "Cependant, ce qui compte vraiment pour nous, c'est le serveur lui-même. Le serveur Hytale Minixel et tous ses plugins ont été développés à la main, avec soin et passion, par notre équipe.",
                 "Chaque ligne de code des mini-jeux, chaque mécanisme de gameplay, chaque fonctionnalité du serveur a été pensée, testée et peaufinée par des humains pour offrir la meilleure expérience possible.",
                 "Nous utilisons l'IA comme un outil pour nous aider sur les tâches techniques ou créatives qui ne sont pas au cœur de notre passion : créer un serveur de qualité pour notre communauté."
             ]
         },
         "approach": {
             "title": "Notre Approche",
-            "content": "Sur Minitale, nous mettons l'accent sur :",
+            "content": "Sur Minixel, nous mettons l'accent sur :",
             "items": [
                 "L'équité : Tous les joueurs ont les mêmes chances de gagner.",
                 "La stabilité : Un serveur optimisé pour éviter les lags et les bugs.",
@@ -146,7 +146,7 @@
         }
     },
     "footer": {
-        "copyright": "© 2026 Minitale. Tous droits réservés."
+        "copyright": "© 2026 Minixel. Tous droits réservés."
     },
     "languageSelector": {
         "label": "Langue:"

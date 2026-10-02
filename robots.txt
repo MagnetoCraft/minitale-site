@@ -5,6 +5,6 @@ Disallow: /js/
 
 Allow: /
 
-Sitemap: https://minitale.fr/sitemap.xml
+Sitemap: https://minixel.fr/sitemap.xml
 
 # Crawl-delay: 2

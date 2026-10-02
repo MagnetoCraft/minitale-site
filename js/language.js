@@ -1,4 +1,4 @@
-// Language Manager for Minitale Site
+// Language Manager for Minixel Site
 const LanguageManager = {
     // Supported languages
     supportedLanguages: ['fr', 'en'],
@@ -52,12 +52,12 @@ const LanguageManager = {
     
     // Get stored language from localStorage
     getStoredLanguage: function() {
-        return localStorage.getItem('minitale-language');
+        return localStorage.getItem('minixel-language');
     },
     
     // Set language in localStorage
     setStoredLanguage: function(lang) {
-        localStorage.setItem('minitale-language', lang);
+        localStorage.setItem('minixel-language', lang);
     },
     
     // Load translation file
